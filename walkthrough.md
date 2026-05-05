@@ -1,6 +1,9 @@
 # Operation Glasshouse — Full Walkthrough
 
-> **Difficulty:** Medium-Hard **Expected solve time:** 3–4 hours (experienced), 5–7 hours (first NoSQLi or Redis-RCE) **Theme:** Fictional B2B SaaS — a podcast industry intelligence platform **Lab type:** Single-host, multi-stage chained exploitation
+> **Difficulty:** Hard
+> **Expected solve time:** 2–4 hours (first NoSQLi or Redis-RCE)
+> **Theme:** Fictional B2B SaaS — a podcast industry intelligence platform
+> **Lab type:** Single-host, multi-stage chained exploitation
 
 This walkthrough covers the full intended solve path for the **Glasshouse** lab. Every flag is replaced with `VulnOS{REDACTED}` — capture them yourself.
 
